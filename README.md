@@ -138,10 +138,3 @@ def dehaze_image(img_path):
     return img2
 ```
 
-### Tech Stack
-
-- **Programming Language**: Python
-- **Libraries and Tools**:
-  - `opencv-python`: For image processing and manipulation.
-  - `numpy`: For numerical computations.
-  - `Yolov5`: For object detction.
