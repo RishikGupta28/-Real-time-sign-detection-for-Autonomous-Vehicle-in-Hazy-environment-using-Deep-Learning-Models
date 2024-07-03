@@ -1,6 +1,5 @@
 # Real-time-Sign-Detection-for-Autonomous-Vehicles-in-Hazy-environment
 
-## GitHub Repository Description
 
 ### Project: Dehazing of Images using Dark Channel Prior
 
